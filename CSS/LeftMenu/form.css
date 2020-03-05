@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020-2-22, 1:50:22
+    Author     : DELL
+*/
+
+.form-inline{
+    align:right;
+    margin:20px;
+}
+.form-group{
+    margin:20px;
+}
+#inputDepartment,#inputEmail,#inputPosition,#inputStatus
+{
+    width:100px;
+
+    position: absolute;
+    right: 110px;
+}
+
+.form-inline{
+    align:right;
+    margin:20px;
+}
+.form-group{
+    margin:20px;
+}
+
+
+#inputDepartment,#inputEmail,#inputPosition,#inputStatus,#inputFrom,#inputTo
+
+
+{
+    width:200px;  
+    position: absolute;
+    right: 110px;
+
+
+}
+#inputAccount,#inputEmpoyleeName,#inputGender,#inputEmail,#Address,#Birthday,#inpuGender{
+
+    width:100px;
+    position: absolute;
+    right: 200px;
+}
+
+.Savebtn{
+    left: 550px;
+    position: absolute;
+}
+
+.Editbtn{
+    right: 100px;
+    position: absolute;
+
+}
